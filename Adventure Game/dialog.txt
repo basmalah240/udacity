@@ -1,0 +1,157 @@
+You find yourself standing in an open field, filled with grass and yellow wildflowers.
+Rumor has it that a wicked fairie is somewhere around here, and has been terrifying the nearby village.
+In front of you is a house.
+To your right is a dark cave.
+In your hand you hold your trusty(but not very effective) dagger.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+1
+You approach the door of the house.
+You are about to knock when the dooropens and out steps a wicked fairie.
+Eep! This is the wicked fairie's house!
+The wicked fairie attacks you!
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+Would you like to (1) fight or (2) run away?
+1
+You do your best...
+But your dagger is no match for the wicked fairie.
+You have been defeated!
+Would you like to play again? (y/n)y
+Excellent! Restarting the game ...
+You find yourself standing in an open field, filled with grass and yellow wildflowers.
+Rumor has it that a gorgon is somewhere around here, and has been terrifying the nearby village.
+In front of you is a house.
+To your right is a dark cave.
+In your hand you hold your trusty(but not very effective) dagger.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+1
+You approach the door of the house.
+You are about to knock when the dooropens and out steps a gorgon.
+Eep! This is the gorgon's house!
+The gorgon attacks you!
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+Would you like to (1) fight or (2) run away?
+2
+You run back into the field. Luckily, you don't seem to have been followed.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+2
+You peer cautiously into the cave.
+It turns out to be only a very small cave.
+Your eye catches a glint of metal behind a rock.
+You have found the magical Sword of Ogoroth!
+You discard your silly old dagger and take the sword with you.
+You walk back out to the field.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+1
+You approach the door of the house.
+You are about to knock when the dooropens and out steps a gorgon.
+Eep! This is the gorgon's house!
+The gorgon attacks you!
+Would you like to (1) fight or (2) run away?
+1
+As the gorgon moves to attack, you unsheath your new sword.
+The Sword of Ogoroth shines brightly in your hand as you brace yourself for the attack.
+But the gorgon takes one look at your shiny new toy and runs away!
+You have rid the town of the gorgon. You are victorious!
+Would you like to play again? (y/n)n
+Thanks for playing! See you next time.
+
+
+
+
+
+
+-----------------------------------------------------------------------
+
+in code/udacity/python
+➜  python3 adventure_game.py
+You find yourself standing in an open field, filled with grass and yellow wildflowers.
+Rumor has it that a wicked fairie is somewhere around here, and has been terrifying the nearby village.
+In front of you is a house.
+To your right is a dark cave.
+In your hand you hold your trusty(but not very effective) dagger.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+1
+You approach the door of the house.
+You are about to knock when the dooropens and out steps a wicked fairie.
+Eep! This is the wicked fairie's house!
+The wicked fairie attacks you!
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+Would you like to (1) fight or (2) run away?
+1
+You do your best...
+But your dagger is no match for the wicked fairie.
+You have been defeated!
+Would you like to play again? (y/n)n
+Thanks for playing! See you next time.
+
+in code/udacity/python took 2m 50.5s
+➜  python3 adventure_game.py
+You find yourself standing in an open field, filled with grass and yellow wildflowers.
+Rumor has it that a pirate is somewhere around here, and has been terrifying the nearby village.
+In front of you is a house.
+To your right is a dark cave.
+In your hand you hold your trusty(but not very effective) dagger.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+1
+You approach the door of the house.
+You are about to knock when the dooropens and out steps a pirate.
+Eep! This is the pirate's house!
+The pirate attacks you!
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+Would you like to (1) fight or (2) run away?
+2
+You run back into the field. Luckily, you don't seem to have been followed.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+2
+You peer cautiously into the cave.
+It turns out to be only a very small cave.
+Your eye catches a glint of metal behind a rock.
+You have found the magical Sword of Ogoroth!
+You discard your silly old dagger and take the sword with you.
+You walk back out to the field.
+
+Enter 1 to knock on the door of the house.
+Enter 2 to peer into the cave.
+What would you like to do?
+(Please enter 1 or 2.)
+1
+You approach the door of the house.
+You are about to knock when the dooropens and out steps a pirate.
+Eep! This is the pirate's house!
+The pirate attacks you!
+Would you like to (1) fight or (2) run away?
+1
+As the pirate moves to attack, you unsheath your new sword.
+The Sword of Ogoroth shines brightly in your hand as you brace yourself for the attack.
+But the pirate takes one look at your shiny new toy and runs away!
+You have rid the town of the pirate. You are victorious!
+Would you like to play again? (y/n)n
+Thanks for playing! See you next time.

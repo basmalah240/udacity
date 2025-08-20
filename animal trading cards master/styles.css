@@ -1,0 +1,60 @@
+li {
+    list-style: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    padding: 1em;
+    margin-bottom: 5px;
+
+}
+
+h3 {
+    text-align: left;
+    margin: 10px 0 0 0;
+    width: 100%;
+    margin-bottom: 5px; 
+}
+
+.toucan-info {
+    border: 1px solid teal;
+    padding: 10px;
+    width: 300px;
+    font-size: 12px;
+    box-sizing: border-box;
+    background-color: #EAF8E0;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.description {
+    font-style: italic;
+}
+
+.card-body {
+    width: 300px;
+    max-width: 300px; 
+    border: 1px solid teal;
+    padding: 5px 25px 25px;
+    margin: 5px auto;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px 7px #556B2F;
+}
